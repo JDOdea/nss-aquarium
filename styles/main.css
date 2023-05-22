@@ -4,11 +4,14 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     font-size: xx-large;
+    padding-bottom: 25px;
 }
 
 .navBar {
     display: flex;
     justify-content: space-around;
-    padding-top: 15px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px dotted black;
+    font-weight: bold;
+    font-size: large;
 }
